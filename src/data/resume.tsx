@@ -14,9 +14,7 @@ import { Csharp } from "@/components/ui/svgs/csharp";
 import { FaFacebook, FaLinkedin } from "react-icons/fa";
 
 export const Icons = {
-  facebook: FaFacebook,
-  linkedin: FaLinkedin,
-  ...
+  facebook: FaFacebook
 }
 export const DATA = {
   name: "Mahdi Khairy",
