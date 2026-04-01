@@ -11,7 +11,13 @@ import { Docker } from "@/components/ui/svgs/docker";
 import { Kubernetes } from "@/components/ui/svgs/kubernetes";
 import { Java } from "@/components/ui/svgs/java";
 import { Csharp } from "@/components/ui/svgs/csharp";
+import { FaFacebook, FaLinkedin } from "react-icons/fa";
 
+export const Icons = {
+  facebook: FaFacebook,
+  linkedin: FaLinkedin,
+  ...
+}
 export const DATA = {
   name: "Mahdi Khairy",
   initials: "DV",
