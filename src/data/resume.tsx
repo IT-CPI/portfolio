@@ -44,6 +44,13 @@ export const DATA = {
         navbar: true,
       },
 
+      X: {
+        name: "X",
+        url: "https://x.com/IT-CPI",
+        icon: Icons.x,
+        navbar: true,
+      },
+
       Facebook: {
         name: "Facebook",
         url: "https://www.facebook.com/ElmobarmegMahdi",
