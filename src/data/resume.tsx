@@ -3,7 +3,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 import { ReactLight } from "@/components/ui/svgs/reactLight";
 import { NextjsIconDark } from "@/components/ui/svgs/nextjsIconDark";
 import { Typescript } from "@/components/ui/svgs/typescript";
-import { SiReact, SiNextdotjs, SiTypescript, SiNodeDotJs, SiPython, SiGo, SiPostgresql, SiDocker, SiKubernetes, SiJava, SiCsharp } from "react-icons/si";
+import { SiReact, SiNextdotjs, SiTypescript, SiNodedotjs, SiPython, SiGo, SiPostgresql, SiDocker, SiKubernetes, SiJavascript, SiCplusplus } from "react-icons/si";
 
 export const DATA = {
   name: "Mahdi Khairy",
@@ -20,14 +20,14 @@ export const DATA = {
   { name: "React", icon: SiReact },
   { name: "Next.js", icon: SiNextdotjs },
   { name: "Typescript", icon: SiTypescript },
-  { name: "Node.js", icon: SiNodeDotJs },
+  { name: "Node.js", icon: SiNodedotjs },
   { name: "Python", icon: SiPython },
   { name: "Go", icon: SiGo },
   { name: "Postgres", icon: SiPostgresql },
   { name: "Docker", icon: SiDocker },
   { name: "Kubernetes", icon: SiKubernetes },
-  { name: "Java", icon: SiJava },
-  { name: "C++", icon: SiCsharp },
+  { name: "Java", icon: SiJavascript },
+  { name: "C++", icon: SiCplusplus },
 ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
