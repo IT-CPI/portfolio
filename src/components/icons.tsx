@@ -1,3 +1,4 @@
+import * as React from "react";
 import { GlobeIcon, MailIcon } from "lucide-react";
 import { FaFacebook, FaLinkedin } from "react-icons/fa";
 export const Icons = {
