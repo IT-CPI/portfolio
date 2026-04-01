@@ -12,9 +12,9 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Facebook.",
+  "Software Engineer and Cybersecurity Specialist focused on building scalable digital solutions and secure systems. Passionate about turning complex ideas into high-impact products.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    "A software engineer specializing in developing integrated digital solutions, combining extensive experience in building modern web and mobile applications and integrating artificial intelligence technologies to enhance performance and user experience. They possess advanced expertise in cybersecurity, including penetration testing and vulnerability analysis (LFI, RFI, Path Traversal, Log Poisoning), and developing secure and effective tools to protect digital systems.\n\nThey have led the development of advanced financial and technological projects, including digital trading and auction platforms, e-wallets, and interactive systems with rigorous access control and a seamless user experience. They excel at designing integrated application architectures and efficiently transforming complex ideas into actionable digital solutions, with a focus on security, performance, and innovation.",
   avatarUrl: "/me.png",
   skills: [
   { name: "React", icon: SiReact },
