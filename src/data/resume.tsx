@@ -44,14 +44,14 @@ export const DATA = {
         navbar: true,
       },
 
-      LinkedIn: {
+      Facebook: {
         name: "Facebook",
         url: "https://www.facebook.com/ElmobarmegMahdi",
         icon: Icons.facebook,
 
         navbar: true,
       },
-      X: {
+      WhatsApp: {
         name: "WhatsApp",
         url: "https://wa.me/+201125020057",
         icon: Icons.whatsapp,
